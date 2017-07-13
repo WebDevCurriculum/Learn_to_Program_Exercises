@@ -13,3 +13,8 @@ end
 3.times do 
 	puts "I love progamming!"
 end
+
+foods = ["asparagus", "stir-fry", "smoothies", "chicken"]
+puts foods.to_s
+puts fodds.join(",")
+puts foods.join(' :) ') + ' 8) '
