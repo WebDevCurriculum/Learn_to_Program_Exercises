@@ -9,3 +9,6 @@ languages = ["English", "Spanish", "Ruby"]
 languages.each do |lang|
 	puts "I love " + lang + " !"
 end
+
+3.times do 
+	puts "I love progamming!"
