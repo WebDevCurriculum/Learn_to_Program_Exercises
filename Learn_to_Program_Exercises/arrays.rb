@@ -16,7 +16,7 @@ end
 
 foods = ['asparagus', 'stir-fry', 'smoothies', 'chicken']
 puts foods.to_s
-puts fodds.join(', ')
+puts foods.join(', ')
 puts foods.join(' :) ') + ' 8)'
 
 200.times do
