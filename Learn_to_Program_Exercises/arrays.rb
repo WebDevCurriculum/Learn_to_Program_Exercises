@@ -14,7 +14,11 @@ end
 	puts "I love progamming!"
 end
 
-foods = ["asparagus", "stir-fry", "smoothies", "chicken"]
+foods = ['asparagus', 'stir-fry', 'smoothies', 'chicken']
 puts foods.to_s
-puts fodds.join(",")
-puts foods.join(' :) ') + ' 8) '
+puts fodds.join(', ')
+puts foods.join(' :) ') + ' 8)'
+
+200.times do
+	puts []
+end 
